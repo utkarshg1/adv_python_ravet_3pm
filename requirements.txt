@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+nbformat
+requests
+beautifulsoup4
+ipykernel
