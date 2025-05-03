@@ -1,0 +1,70 @@
+{
+    "World population": [
+        "https://en.wikipedia.org/wiki/File:World_Population_Prospects.svg",
+        "https://en.wikipedia.org/wiki/File:Illustration_of_contemporary_and_past_human_populations_Our_World_in_Data.png",
+        "https://en.wikipedia.org/wiki/File:2020_1million_cities.jpg",
+        "https://en.wikipedia.org/wiki/File:Expectancy_of_life.svg",
+        "https://en.wikipedia.org/wiki/File:Population_pyramid_of_the_world_in_continental_groupings_2023.svg",
+        "https://en.wikipedia.org/wiki/File:Global_population_cartogram.png",
+        "https://en.wikipedia.org/wiki/File:People%27s_-Km%C2%B2_for_all_countries_(and_us_states,_uk_kingdoms).png",
+        "https://en.wikipedia.org/wiki/File:Top_5_Country_Population_Graph_1901_to_2021.svg",
+        "https://en.wikipedia.org/wiki/File:Population_Density,_v4.11,_2020_(48009093621).jpg",
+        "https://en.wikipedia.org/wiki/File:World_population_(UN).svg",
+        "https://en.wikipedia.org/wiki/File:Total_Fertility_Rate_Map_by_Country.svg",
+        "https://en.wikipedia.org/wiki/File:World_population_counter,_Eureka,_Halifax,_West_Yorkshire_(27th_August_2022)_001.jpg",
+        "https://en.wikipedia.org/wiki/File:Population_curve.svg",
+        "https://en.wikipedia.org/wiki/File:World_population_growth_(lin-log_scale).png",
+        "https://en.wikipedia.org/wiki/File:World_population_history.svg",
+        "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+        "https://en.wikipedia.org/wiki/File:Population_by_broad_age_group_projected_to_2100,_OWID.svg",
+        "https://en.wikipedia.org/wiki/File:World_population_since_10,000_BCE_(OurWorldInData_series),_OWID.svg",
+        "https://en.wikipedia.org/wiki/File:Population-doubling.svg",
+        "https://en.wikipedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg",
+        "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+        "https://en.wikipedia.org/wiki/File:Emblem-money.svg"
+    ],
+    "Data science": [
+        "https://en.wikipedia.org/wiki/File:PIA23792-1600x1200(1).jpg",
+        "https://en.wikipedia.org/wiki/File:EDA_example_-_Always_plot_your_data.jpg",
+        "https://en.wikipedia.org/wiki/File:Data_Science.png",
+        "https://en.wikipedia.org/wiki/File:Cloud_computing_in_enabling_data_science_at_scale.jpg"
+    ],
+    "Python (programming language)": [
+        "https://en.wikipedia.org/wiki/File:Python-logo-notext.svg",
+        "https://en.wikipedia.org/wiki/File:Wikibooks-logo-en-noslogan.svg",
+        "https://en.wikipedia.org/wiki/File:Guido_van_Rossum_in_PyConUS24.jpg",
+        "https://en.wikipedia.org/wiki/File:Hello_World_in_Python.png",
+        "https://en.wikipedia.org/wiki/File:Af-Helloworld_(C_Sharp).svg",
+        "https://en.wikipedia.org/wiki/File:Python_3.13_Standrd_Type_Hierarchy-en.svg",
+        "https://en.wikipedia.org/wiki/File:Tiobeindex.png",
+        "https://en.wikipedia.org/wiki/File:Python_Powered.png",
+        "https://en.wikipedia.org/wiki/File:Octicons-terminal.svg",
+        "https://en.wikipedia.org/wiki/File:Python-logo-notext.svg",
+        "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+        "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg"
+    ],
+    "Rust (programming language)": [
+        "https://en.wikipedia.org/wiki/File:Rust_programming_language_black_logo.svg",
+        "https://en.wikipedia.org/wiki/File:MozillaCaliforniaHeadquarters.JPG",
+        "https://en.wikipedia.org/wiki/File:Home_page_servo_v0.01.png",
+        "https://en.wikipedia.org/wiki/File:UML_class_diagram_Rust_stdio.svg",
+        "https://en.wikipedia.org/wiki/File:Crates.io_website.png",
+        "https://en.wikipedia.org/wiki/File:Cargo_clippy_hello_world_example.png",
+        "https://en.wikipedia.org/wiki/File:Firefox_logo,_2019.svg",
+        "https://en.wikipedia.org/wiki/File:Rust_for_Linux_logo.svg",
+        "https://en.wikipedia.org/wiki/File:Rustacean-orig-noshadow.svg",
+        "https://en.wikipedia.org/wiki/File:Rust_Foundation_logo.png",
+        "https://en.wikipedia.org/wiki/File:Octicons-terminal.svg"
+    ],
+    "Data analysis": [
+        "https://en.wikipedia.org/wiki/File:Rayleigh-Taylor_instability.jpg",
+        "https://en.wikipedia.org/wiki/File:Data_visualization_process_v1.png",
+        "https://en.wikipedia.org/wiki/File:Relationship_of_data,_information_and_intelligence.png",
+        "https://en.wikipedia.org/wiki/File:Social_Network_Analysis_Visualization.png",
+        "https://en.wikipedia.org/wiki/File:Total_Revenues_and_Outlays_as_Percent_GDP_2013.png",
+        "https://en.wikipedia.org/wiki/File:U.S._Phillips_Curve_2000_to_2013.png",
+        "https://en.wikipedia.org/wiki/File:US_Employment_Statistics_-_March_2015.png",
+        "https://en.wikipedia.org/wiki/File:User-activities.png",
+        "https://en.wikipedia.org/wiki/File:Wikiversity_logo_2017.svg"
+    ]
+}
